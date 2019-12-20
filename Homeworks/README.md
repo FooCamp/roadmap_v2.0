@@ -34,3 +34,14 @@ Subir Todas las tareas que se han realizado a un repositorio en Github.
 2. Realizar la actividad propuesta en [FLEXBOX FROGGY](https://flexboxfroggy.com/)
 
 > Opcional: Realizar el taller de [Flexbox Zombie](https://mastery.games/p/flexbox-zombies)
+
+## 5. BEM
+
+A partir de la estructura de la imagen propuesta:
+
+1. Listar en un README los bloques, elementos y modificadores encontrados.
+2. Crear la estructura en HTML.
+3. Escribir las clases en CSS utilizando BEM.
+4. Escribir los estilos de CSS correspondientes a la imagen.
+
+![BEM exercise](./5.BEM.png)
