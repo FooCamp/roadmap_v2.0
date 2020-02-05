@@ -45,3 +45,17 @@ A partir de la estructura de la imagen propuesta:
 4. Escribir los estilos de CSS correspondientes a la imagen.
 
 ![BEM exercise](./5.BEM.png)
+
+## 6. Algoritmia
+
+
+## 7. JavaScript 1
+
+1. Imprimir las tablas de multiplicar del 1 al 9 utilizando el For Loop.
+2. Calcular el área del círculo a partir de un radio determinado:
+  * Crear una función llamada “squareNumber” que tome un argumento y retorne su valor cuadrático.
+  * Crear una función llamada “areaOfCircle” que tome un argumento (radio) calcule el área del círculo (π * radio^2) y lo imprima en pantalla.
+
+> Para la operación radio^2 utilizan la función __squareNumber__.
+
+> Por puntos extra `https://github.com/workshopper/javascripting` esta esta actividad.
